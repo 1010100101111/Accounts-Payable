@@ -1,0 +1,5 @@
+Vendor Name,Invoice Number,Invoice Date,Invoice Amount,Due Date
+'PT ABC','001','2018-08-31',"1,000,000",None
+'PT BCD','0001','2018-10-31',"1,000,000",None
+'PT ABC','002','2022-12-26',"1,250,000",None
+'PT BCD','0002','2022-12-27',"4,000,000",None
